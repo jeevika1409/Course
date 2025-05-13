@@ -1,5 +1,3 @@
-import java.util.*;
-
 class Course {
     String name;
     int marks;
